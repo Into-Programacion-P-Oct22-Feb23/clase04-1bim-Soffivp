@@ -17,8 +17,12 @@ public class Ejemplo01 {
     public static void main(String[] args) {
         // Ejemplo 
         String nombreEstudiante;
-        nombreEstudiante = "René Elizalde";
+        nombreEstudiante = "Sofia Vire";
         System.out.println(nombreEstudiante);
+        System.out.println("Sofia Vire");
+        nombreEstudiante = "Paola Vire";
+        System.out.println(nombreEstudiante);
+        
     }
-    
+       
 }
